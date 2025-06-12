@@ -17,9 +17,9 @@
 
 ### 使用した教材サマリ
 - [HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc&list=WL&index=2&t=15529s&ab_channel=SuperSimpleDev)
-・CSS基礎について（Flexbox、Grid、Position Absolute and Relative等）
+CSS基礎について（Flexbox、Grid、Position Absolute and Relative等）
 
-- [JavaScript Tutorial Full Course - Beginner to Pro](https://www.youtube.com/watch?v=EerdGm-ehJQ&t=34112s&ab_channel=SuperSimpleDev
+- [JavaScript Tutorial Full Course - Beginner to Pro](https://www.youtube.com/watch?v=EerdGm-ehJQ&t=34112s&ab_channel=SuperSimpleDev)
 ・変数から非同期処理、テストフレームワーク（Jasmin）の使用について
 
 
